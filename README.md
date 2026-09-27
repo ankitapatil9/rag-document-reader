@@ -304,12 +304,6 @@ Through this project, I explored how modern AI applications combine traditional 
 
 The project focuses on understanding the complete pipeline from **document ingestion to information retrieval and AI-generated responses**.
 
-## Author
-
-**Priyansh**
-
-Engineering Student | AI & Full-Stack Development
-
 ## License
 
 This project is licensed under the MIT License.
